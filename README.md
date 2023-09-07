@@ -234,26 +234,13 @@ Emergent autonomous scientific research capabilities of large language models, h
 
 ChemCrow: Augmenting large-language models with chemistry tools, https://arxiv.org/abs/2304.05376, tweet (Jim Fan)
 
-0 replies
 
-distbit0
-on Apr 11
-Also some more: https://github.com/stars/distbit0/lists/agentic-ai
-
-
-Thanks! I classified HuggingGPT under the "tool use" section; it operates in four stages and doesn't have the recursive, unbounded nature of Auto-GPT-like agents.
-
-
-hey @alreadydone would you be up for a half hour call soon by any chance? Would be awesome to talk. https://cal.com/distbit/30min?duration=30
-
-np if you are too busy. I should have more code+writing on these topics v soon which I will link to here anyway, if that is ok with you.
-
-Datasets for fine-tuning
+##Datasets for fine-tuning
 https://github.com/yaodongC/awesome-instruction-dataset
 https://github.com/PhoebusSi/Alpaca-CoT
 https://github.com/JeremyAlain/imitation_learning_from_language_feedback#download-all-finetuning-datasets (language feedback)
 
-Toolformer / plugin / APIs:
+##Toolformer / plugin / APIs:
 https://github.com/ShishirPatil/gorilla
 https://github.com/StevenGrove/GPT4Tools
 https://github.com/danielgross/LlamaAcademy
