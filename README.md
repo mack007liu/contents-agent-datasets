@@ -1,4 +1,5 @@
 New developments after I post the above on Zulip on Feb 14:
+https://github.com/alreadydone/contents/discussions/5#discussion-5072348
 
 **LLaMA/Alpaca ecosystem**
 - LLaMA model leak, torrent, Hugging Face, hash
